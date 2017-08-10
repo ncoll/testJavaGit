@@ -7,6 +7,7 @@ public class TestOutput {
 		System.out.println("test succes");
 		System.out.println("add message");
 		System.out.println("add message2");
+		System.out.println("new message");
 	}
 
 }
