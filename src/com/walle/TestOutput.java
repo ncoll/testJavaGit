@@ -11,7 +11,7 @@ public class TestOutput {
 		
 		
 		
-		System.out.println("new message2");
+		System.out.println("new branch");
 	}
 
 }
