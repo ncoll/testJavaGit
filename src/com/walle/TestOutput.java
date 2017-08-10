@@ -8,6 +8,10 @@ public class TestOutput {
 		System.out.println("add message");
 		System.out.println("add message2");
 		System.out.println("new message");
+		
+		
+		
+		System.out.println("new message2");
 	}
 
 }
